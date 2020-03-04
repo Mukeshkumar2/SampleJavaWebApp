@@ -13,4 +13,4 @@ artifacts:
   files:
     - appspec.yml
     - target/messageUtil-1.0.jar
-    - scripts/*
+    - '*'
